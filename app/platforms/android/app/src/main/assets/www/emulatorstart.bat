@@ -1,0 +1,1 @@
+emulator -avd Galaxy_S5_API_23
